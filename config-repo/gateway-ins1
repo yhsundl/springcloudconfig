@@ -1,4 +1,4 @@
-
+ server.port=7001
 logging.file=gateway.log
 
 # routes to serviceId
